@@ -1,13 +1,1 @@
-﻿# EventHub Project
-College Event Hub
-College Event Hub is a web-based application that simplifies college event management by providing a centralized platform for students and administrators.
-Features:
-Secure login with role-based access
-Event creation and management by admins
-Event registration and volunteer application by students
-Automated email notifications
-Responsive user interface
-Tech Stack:
-Frontend- HTML, CSS, JavaScript
-Backend- Node.js, Express.js
-Database- MySQL
+COLLEGE EVENT HUB is a web-based application developed to simplify and automate college event management by providing a centralized platform for students and administrators. The system supports secure, role-based access where admins can create and manage events, while students can view events, register, and apply for volunteering. It includes features such as automated email notifications, responsive UI, and proper validation to ensure a smooth user experience. The project was built using HTML, CSS, JavaScript, Node.js, Express.js, and MySQL
